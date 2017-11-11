@@ -1,6 +1,6 @@
 import * as types from "./actionTypes";
 
-const url = "http://www.reddit.com/r/politics.json";
+const url = "https://www.reddit.com/r/politics.json";
 
 /**
  * @param {json} json - json string of data
